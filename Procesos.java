@@ -3,7 +3,6 @@ public class Procesos{
     private double ahorros;
     private double meta;
     private double deudas;
-    private double gasto;
  
     public void retirar(double cantidad) {
         saldo = saldo - cantidad;
